@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-<img align="right" src="https://github.com/ilyfairy/ilyfairy/raw/main/img/nanana.jpg"/>
+<img align="right" src="https://github.com/ilyfairy/ilyfairy/raw/main/img/sleep_s.jpg"/>
 
 你好呀~ 这里是 ilyfairy, 你可以叫我小仙女. 最喜欢聊天和写代码了qwq  
 
-- 🌱 喜欢的语言: C#, C#, C# (~~虽然只用C#~~)
+- 🌱 喜欢的语言: C#, C#, C# (~~就是只用C#啦~~)
 - 🔭 正在学习的: C#
 - 👯 希望和很多善良的人交朋友
 - 💬 或许我们可以聊些有趣~~但没啥用~~的奇妙小程序
