@@ -2,7 +2,7 @@
 
 <img align="right" src="https://github.com/ilyfairy/ilyfairy/raw/main/img/nanana.jpg"/>
 
-你好呀~ 这里是 ilyfairy, 你可以叫我小仙女. 最喜欢写代码了qwq  
+你好呀~ 这里是 ilyfairy, 你可以叫我小仙女. 最喜欢聊天和写代码了qwq  
 
 - 🌱 喜欢的语言: C#, C#, C# (~~虽然只用C#~~)
 - 🔭 正在学习的: C#
